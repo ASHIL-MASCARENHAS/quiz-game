@@ -25,7 +25,7 @@ A fun and interactive command-line quiz game built with Python that mixes seriou
    git clone https://github.com/ASHIL-MASCARENHAS/quiz-game.git
    cd quiz-game
 2. Run the game:
-   bash
+   ```bash
    python quiz.py
 
 🎮 How to Play
