@@ -72,5 +72,3 @@ Key improvements I made:
 6. Added contributing guidelines
 7. Included license and author info
 8. Made it more visually appealing overall
-
-You can copy this exactly or modify parts to better match your preferences. The markdown formatting will render nicely on GitHub.
